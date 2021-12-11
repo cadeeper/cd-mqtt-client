@@ -7,6 +7,7 @@ The client gives you a single compact tool for the most important client operati
  - MQTT 5.0 protocol support: The client supports most of MQTT features for MQTT Version 5 & 3.1.1.
  - Simple and clean graphical interface: Chat like interface.
  - SSL authentication: Support for CA certificates
+ - Payload format conversion: Support for Hex, Base64, JSON and Plaintext.
  - Custom script: Support custom script to encode/decode any protocol data.
 
 ## How to use

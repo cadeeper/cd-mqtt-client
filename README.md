@@ -1,4 +1,4 @@
-A MQTT client tool plugin for IDEA that enables you to interact quickly and easily with any MQTT Broker.  
+A MQTT client tool plugin for IDEA that enables you to interact quickly and easily with any MQTT Broker or IoT(Internet of Things) server.  
 The client gives you a single compact tool for the most important client operations (publish and subscribe).
 
 **plugin page:  https://plugins.jetbrains.com/plugin/17465-mqtt-client**

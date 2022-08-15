@@ -11,12 +11,14 @@ The client gives you a single compact tool for the most important client operati
  - Custom script: Support custom script to encode/decode any protocol data.
 
 ## How to use
-#### connect
+#### connect and subscribe/publish
 ![sub&pub](https://github.com/cadeeper/cd-mqtt-client/blob/main/connect.gif?raw=true)
-#### subscribe and publish
-![sub&pub](https://github.com/cadeeper/cd-mqtt-client/blob/main/publish.gif?raw=true)
 
-### Custom script
+### Connect script
+You can use script to encode the username or encrypt the password before connect to the server.  
+More details: **[use script](https://github.com/cadeeper/cd-mqtt-client/blob/main/SCRIPT.md)**
+
+### Message script
 #### add script
 ![add script](https://github.com/cadeeper/cd-mqtt-client/blob/main/addscript.png?raw=true)
 #### use script

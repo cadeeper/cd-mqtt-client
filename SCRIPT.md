@@ -46,7 +46,7 @@ let hex = hmac.sha224Hex('aaa', 'secret');
 let hex = hmac.sha256Hex('aaa', 'secret');
 let hex = hmac.sha384Hex('aaa', 'secret');
 let hex = hmac.sha512Hex('aaa', 'secret');
-
-#### other aviator functions
-https://www.yuque.com/boyan-avfmj/aviatorscript/ashevw?translate=en
 ```
+#### other aviator functions
+[aviator functions](https://www.yuque.com/boyan-avfmj/aviatorscript/ashevw?translate=en)
+

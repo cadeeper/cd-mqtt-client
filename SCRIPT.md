@@ -1,7 +1,7 @@
 
 ## Script support
 Script implemention is base on aviatorscript: https://github.com/killme2008/aviatorscript
-### connection username/password script
+### connection script
 The script will be executed before you connect to the server, you can use it to encode the username or encrypt the password.
 #### Example: 
 encode and encrypt
